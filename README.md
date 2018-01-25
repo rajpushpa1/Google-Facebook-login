@@ -1,2 +1,2 @@
 # Google-Facebook-login
-Simple example of login with Google/Facebook
+Simple Example of login with Google/Facebook
